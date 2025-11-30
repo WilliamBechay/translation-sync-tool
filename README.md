@@ -57,11 +57,11 @@ No application logic is modified — only translation files.
 ## 📂 Recommended file structure
 
 translations/
- ├── en.json        ← master file
- ├── fr.json
- ├── es.json
- ├── ar.json
- └── de.json
+├── en.json        ← master file
+├── fr.json
+├── es.json
+├── ar.json
+└── de.json
 
 ## ⚠️ Limitations
 
