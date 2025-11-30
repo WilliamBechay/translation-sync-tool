@@ -22,7 +22,7 @@ The script detects missing keys based on the master English file, auto-translate
 
 ### 1. Clone the project
 
-git clone https://github.com/YOUR_REPO/translation-sync-tool
+git clone https://github.com/williambechay/translation-sync-tool
 cd translation-sync-tool
 
 ### 2. Install dependencies
